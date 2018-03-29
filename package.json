@@ -1,0 +1,13 @@
+{
+  "name": "qui-light-html",
+  "version": "0.3.8",
+  "description": "simple sketch to html conversion",
+  "main": "app.js",
+  "repository": "https://github.com/darrell-parkhouse5151/qui-light-html.git",
+  "author": "darrell-parkhouse5151 <lazycoder5151@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
